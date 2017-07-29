@@ -1,0 +1,15 @@
+{
+  "name": "4th-lec",
+  "version": "1.0.0",
+  "description": "Templates",
+  "main": "server3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
